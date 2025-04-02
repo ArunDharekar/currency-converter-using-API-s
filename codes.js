@@ -1,3 +1,5 @@
+// this code is ectracted from .. website
+
 const countryList = {
     AED: "AE",
     AFN: "AF",
